@@ -5,10 +5,8 @@ import org.example.yxinterview.model.Order;
 import org.example.yxinterview.model.PurchaseItem;
 import org.junit.jupiter.api.Test;
 
-import java.io.ByteArrayInputStream;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
-import java.nio.charset.StandardCharsets;
 import java.util.Collections;
 import java.util.List;
 
